@@ -9,3 +9,4 @@ Solutions for https://leetcode.com/
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [java](./algorithms/7.ReverseInteger.md)|Easy|Math|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [java](./algorithms/9.PalindromeNumber.md)|Easy|Math|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [java](./algorithms/13.RomanToInteger.md)|Easy|Math String|
+|14|[Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/) | [java](./algorithms/14.LongestCommonPrefix.md)|Easy|String|
