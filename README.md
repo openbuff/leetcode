@@ -14,4 +14,5 @@ Solutions for https://leetcode.com/
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [java](./algorithms/21.MergeTwoSortedLists.md)|Easy|Linked List|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [java](./algorithms/26.RemoveDuplicatesfromSortedArray.md)|Easy|Array Two Pointers|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/) | [java](./algorithms/27.RemoveElement.md)|Easy|Array Two Pointers|
-|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [java](./algorithms/28.ImplementStrStr)|Easy|String Two Pointers|
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [java](./algorithms/28.ImplementStrStr.md)|Easy|String Two Pointers|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [java](./algorithms/35.SearchInsertPosition.md)|Easy|Array Binary Search|
