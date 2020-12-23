@@ -16,3 +16,4 @@ Solutions for https://leetcode.com/
 |27|[Remove Element](https://leetcode.com/problems/remove-element/) | [java](./algorithms/27.RemoveElement.md)|Easy|Array Two Pointers|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [java](./algorithms/28.ImplementStrStr.md)|Easy|String Two Pointers|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [java](./algorithms/35.SearchInsertPosition.md)|Easy|Array Binary Search|
+|38|[Count and Say](https://leetcode.com/problems/count-and-say/) | [java](./algorithms/38.CountAndSay.md)|Easy|String|
