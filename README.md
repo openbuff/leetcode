@@ -20,3 +20,4 @@ Solutions for https://leetcode.com/
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [java](./algorithms/58.LengthOfLastWord.md)|Easy|String|
 |66|[Plus One](https://leetcode.com/problems/plus-one/) | [java](./algorithms/66.PlusOne.md)|Easy|Array|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/) | [java](./algorithms/67.AddBinary.md)|Easy|Math String|
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [java](./algorithms/69.Sqrt(x).md)|Easy|Math Binary Search|
