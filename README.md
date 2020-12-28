@@ -1,7 +1,8 @@
 LeetCode
 ========
 Solutions for https://leetcode.com/
-###  Algorithm
+
+## Algorithm
 
 | # | Title | Solution | Difficulty | Related Topics |
 |---| ----- | -------- | ---------- | ---------- |
@@ -21,3 +22,9 @@ Solutions for https://leetcode.com/
 |66|[Plus One](https://leetcode.com/problems/plus-one/) | [java](./algorithms/66.PlusOne.md)|Easy|Array|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/) | [java](./algorithms/67.AddBinary.md)|Easy|Math String|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [java](./algorithms/69.Sqrt(x).md)|Easy|Math Binary Search|
+
+## Database
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [mysql](./database/175.CombineTwoTables.md)|Easy|
