@@ -28,4 +28,5 @@ Solutions for https://leetcode.com/
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [mysql](./database/175.CombineTwoTables.md)|Easy|
+|176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [mysql](./database/176.SecondHighestSalary.md)|Easy|
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [mysql](./database/182.DuplicateEmails.md)|Easy|
