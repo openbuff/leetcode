@@ -33,4 +33,4 @@ Solutions for https://leetcode.com/
 |178|[Rank Scores](https://leetcode.com/problems/rank-scores/solution/) | [mysql](./database/178.RankScores.md)|Medium|
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [mysql](./database/182.DuplicateEmails.md)|Easy|
 |183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [mysql](./database/183.CustomersWhoNeverOrder.md)|Easy|
-|196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [mysql](./database/196. Delete Duplicate Emails.md)|Easy|
+|196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [mysql](./database/196.DeleteDuplicateEmails.md)|Easy|
