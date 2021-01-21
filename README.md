@@ -31,6 +31,7 @@ Solutions for https://leetcode.com/
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [mysql](./database/176.SecondHighestSalary.md)|<font color=#009975 >Easy</font>|
 |177|[Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | [mysql](./database/177.NthHighestSalary.md)|<font color=#ed7336 >Medium</font>|
 |178|[Rank Scores](https://leetcode.com/problems/rank-scores/solution/) | [mysql](./database/178.RankScores.md)|<font color=#ed7336 >Medium</font>|
+|180|[Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | [mysql](./database/180.ConsecutiveNumbers.md)|<font color=#ed7336 >Medium</font>|
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [mysql](./database/182.DuplicateEmails.md)|<font color=#009975 >Easy</font>|
 |183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [mysql](./database/183.CustomersWhoNeverOrder.md)|<font color=#009975 >Easy</font>|
 |196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [mysql](./database/196.DeleteDuplicateEmails.md)|<font color=#009975 >Easy</font>|
