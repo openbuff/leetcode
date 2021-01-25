@@ -35,4 +35,5 @@ Solutions for https://leetcode.com/
 |181|[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [mysql](./database/181.EmployeesEarningMoreThanTheirManagers.md)|<font color=#009975 >Easy</font>|
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [mysql](./database/182.DuplicateEmails.md)|<font color=#009975 >Easy</font>|
 |183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [mysql](./database/183.CustomersWhoNeverOrder.md)|<font color=#009975 >Easy</font>|
+|184|[Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | [mysql](./database/184.DepartmentHighestSalary.md)|<font color=#ed7336 >Medium</font>|
 |196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [mysql](./database/196.DeleteDuplicateEmails.md)|<font color=#009975 >Easy</font>|
