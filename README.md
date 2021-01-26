@@ -37,3 +37,4 @@ Solutions for https://leetcode.com/
 |183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [mysql](./database/183.CustomersWhoNeverOrder.md)|<font color=#009975 >Easy</font>|
 |184|[Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | [mysql](./database/184.DepartmentHighestSalary.md)|<font color=#ed7336 >Medium</font>|
 |196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [mysql](./database/196.DeleteDuplicateEmails.md)|<font color=#009975 >Easy</font>|
+|197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [mysql](./database/197.RisingTemperature.md)|<font color=#009975 >Easy</font>|
