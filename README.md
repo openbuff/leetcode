@@ -39,3 +39,4 @@ Solutions for https://leetcode.com/
 |196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [mysql](./database/196.DeleteDuplicateEmails.md)|<font color=#009975 >Easy</font>|
 |197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [mysql](./database/197.RisingTemperature.md)|<font color=#009975 >Easy</font>|
 |595|[Big Countries](https://leetcode.com/problems/big-countries/) | [mysql](./database/595.BigCountries.md)|<font color=#009975 >Easy</font>|
+|596|[Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | [mysql](./database/596.ClassesMoreThan5Students.md)|<font color=#009975 >Easy</font>|
